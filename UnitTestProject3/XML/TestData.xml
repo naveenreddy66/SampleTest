@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TestData>
+  <CanBuyHouse>
+	  <Country>Canada</Country>
+	  <Property>Australia</Property>
+     <ExpectedResults>true</ExpectedResults>
+  </CanBuyHouse>
+	
+  <CanBuyHouse>
+	  <Country>Canada</Country>
+	  <Property>Australia</Property>
+     <ExpectedResults>False</ExpectedResults>
+  </CanBuyHouse>
+</TestData>
